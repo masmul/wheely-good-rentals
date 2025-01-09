@@ -15,14 +15,14 @@ const featuredCars = [
     year: "2024",
     transmission: "Auto",
     price: "350,000",
-    image: "/hrv.png"
+    image: "images/hrv.png"
   },
   {
     name: "Daihatsu Ayla",
     year: "2024",
     transmission: "Auto",
     price: "300,000",
-    image: "/ayla.png"
+    image: "images/ayla.png"
   }
 ];
 
