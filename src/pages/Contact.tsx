@@ -32,7 +32,7 @@ const Contact = () => {
                 <div>
                   <h3 className="font-semibold">Alamat</h3>
                   <p className="text-gray-600">
-                    Jl. Rental No. 123, Jakarta Selatan
+                    alamat kamu
                   </p>
                 </div>
               </div>
