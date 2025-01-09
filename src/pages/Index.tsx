@@ -8,21 +8,21 @@ const featuredCars = [
     year: "2024",
     transmission: "Auto",
     price: "450,000",
-    image: "/placeholder.svg"
+    image: "/images/avanza.png"
   },
   {
-    name: "Honda Brio",
+    name: "Honda HRV",
     year: "2024",
     transmission: "Auto",
     price: "350,000",
-    image: "/placeholder.svg"
+    image: "/hrv.png"
   },
   {
     name: "Daihatsu Ayla",
     year: "2024",
     transmission: "Auto",
     price: "300,000",
-    image: "/placeholder.svg"
+    image: "/ayla.png"
   }
 ];
 
