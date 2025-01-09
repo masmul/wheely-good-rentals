@@ -6,49 +6,49 @@ const cars = [
     year: "2024",
     transmission: "Auto",
     price: "300,000",
-    image: "/ayla.png"
+    image: "images/ayla.png"
   },
   {
     name: "Daihatsu Agya",
     year: "2024",
     transmission: "Auto",
     price: "300,000",
-    image: "/agya.png"
+    image: "images/agya.png"
   },
   {
     name: "Honda Brio",
     year: "2024",
     transmission: "Auto",
     price: "350,000",
-    image: "/brio.png"
+    image: "images/brio.png"
   },
   {
     name: "Toyota Avanza",
     year: "2024",
     transmission: "Auto",
     price: "450,000",
-    image: "/avanza.png"
+    image: "images/avanza.png"
   },
   {
     name: "Mitsubishi Xpander",
     year: "2024",
     transmission: "Auto",
     price: "500,000",
-    image: "/xpander.png"
+    image: "images/xpander.png"
   },
   {
     name: "Mitsubishi Pajero",
     year: "2024",
     transmission: "Auto",
     price: "1,200,000",
-    image: "/pajero.png"
+    image: "images/pajero.png"
   },
   {
     name: "Toyota Fortuner",
     year: "2024",
     transmission: "Auto",
     price: "1,000,000",
-    image: "/fortuner.png"
+    image: "images/fortuner.png"
   }
 ];
 
